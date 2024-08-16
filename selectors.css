@@ -1,0 +1,21 @@
+.th{
+    text-align: center;
+}
+.tb{
+    text-align: center;
+}
+.f{
+    background-color: rgb(124, 210, 210);
+}
+.i{
+    background-color: rgb(255, 239, 223);
+}
+img{
+    width:20vw;
+}
+.boil{
+    background-color:blueviolet;
+}
+.add{
+    background-color:lightcoral;
+}
